@@ -1,2 +1,2 @@
 # MyNotes
-Use Touch ID with iOS 8
+Use Swift to create a simple app using Touch ID and iOS 8 SDK
